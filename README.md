@@ -1,5 +1,5 @@
 # Traffic_Light
-Descripción corta y concisa del proyecto.
+Esta pequeña porción de código permite visualizar una simulación de un semaforo en la vida real, y una interacción en tiempon real con el, en donde el usuario hace un papel de peatón en el cruce peatonal al presionar el botón que acorta el tiempo de la luz verde, permitiendole pasar de acera de forma más rápida.
 
 ## Tabla de Contenidos
 1. [Introducción](#introducción)
